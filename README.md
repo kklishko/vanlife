@@ -21,3 +21,9 @@ First, make sure the raspberry pi is up-to-date. And then install the package us
     sudo apt-get install python3-pip
     sudo python3 -m pip install --upgrade pip setuptools wheel
     sudo pip3 install Adafruit_DHT
+
+## Remote Connection
+
+TeamViewer version: 15.1.3937  (DEB)
+
+Teamviewr ID: 1708004509
